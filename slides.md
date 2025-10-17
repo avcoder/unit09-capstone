@@ -162,4 +162,5 @@ transition: slide-left
 ## Keep in Touch
 - https://www.linkedin.com/in/avpeace/
 - albertvillaruz@gmail.com
+   - Please email a "Kudos quote" that I can put on [avpeace.dev](https://avpeace.dev/)
 - discord: avcoder1274
