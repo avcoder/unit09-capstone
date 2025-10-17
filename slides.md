@@ -149,3 +149,16 @@ transition: slide-left
       - Key learnings and insights gained during the project.
       - Screenshots and code snippets demonstrating important milestones.
 
+---
+transition: slide-left
+---
+
+# GRADUATION 2025 🎉
+
+- Congrats to all of you --- we've done it!
+- Compilation of all slides found [here] 
+- Reminder: my last day I can grade is Oct. 31
+
+## Keep in Touch
+- https://www.linkedin.com/in/avpeace/
+- albertvillaruz@gmail.com
