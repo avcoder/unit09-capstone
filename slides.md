@@ -162,3 +162,4 @@ transition: slide-left
 ## Keep in Touch
 - https://www.linkedin.com/in/avpeace/
 - albertvillaruz@gmail.com
+- discord: avcoder1274
