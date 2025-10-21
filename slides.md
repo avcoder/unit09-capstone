@@ -156,8 +156,8 @@ transition: slide-left
 # GRADUATION 2025 🎉
 
 - Congrats to all of you --- we've done it!
-- Compilation of all slides found [here] 
 - Reminder: my last day I can grade is Oct. 31
+- Do [final survey](https://circuitstream.typeform.com/to/wfZnuPvs#instructor=SoftwareAN&course_id=9514)
 
 ## Keep in Touch
 - https://www.linkedin.com/in/avpeace/
